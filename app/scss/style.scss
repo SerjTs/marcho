@@ -506,7 +506,6 @@
     max-width: 570px;
     width: 100%;
     margin-left: auto;
-border: 1px solid #000;
   }
   &__subtitle {
     color: $accent;
@@ -532,9 +531,6 @@ border: 1px solid #000;
       @extend %roboto-700;
       margin: 10px 0 7px;
     }
-  }
-  &__text {
-
   }
   &__link {
     text-transform: uppercase;
